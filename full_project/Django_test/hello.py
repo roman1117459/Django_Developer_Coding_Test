@@ -1,1 +1,0 @@
-print("VueJS DJANGO ML")
