@@ -1,0 +1,1 @@
+print("VueJS DJANGO ML")
